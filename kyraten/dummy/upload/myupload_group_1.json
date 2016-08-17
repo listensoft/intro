@@ -1,6 +1,7 @@
 {
   "code": 0,
   "message": "success",
+  "last": true,
   "uploadList": [
     {
       "id": "1",
