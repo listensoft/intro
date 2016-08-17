@@ -9,10 +9,10 @@
       "sunny_night": "http://image.characterfarm.net/widget/characteritem/detail/3/2/1.png",
       "cloudy_day": "",
       "cloudy_night": "",
-      "sunny_foggy": "",
-      "sunny_rainy": "",
-      "sunny_thunder": "",
-      "sunny_snowy": ""
+      "foggy": "",
+      "sunny_rain": "",
+      "thunder": "",
+      "snowy": ""
     },
     {
       "id": "2",
@@ -20,10 +20,10 @@
       "sunny_night": "",
       "cloudy_day": "http://image.characterfarm.net/widget/characteritem/detail/6/3/1.png",
       "cloudy_night": "",
-      "sunny_foggy": "",
-      "sunny_rainy": "",
-      "sunny_thunder": "http://image.characterfarm.net/widget/characteritem/detail/6/7/1.png",
-      "sunny_snowy": ""
+      "foggy": "",
+      "rainy": "",
+      "thunder": "http://image.characterfarm.net/widget/characteritem/detail/6/7/1.png",
+      "snowy": ""
     },
     {
       "id": "3",
@@ -31,10 +31,10 @@
       "sunny_night": "",
       "cloudy_day": "",
       "cloudy_night": "",
-      "sunny_foggy": "",
-      "sunny_rainy": "http://image.characterfarm.net/widget/characteritem/detail/25/6/1.png",
-      "sunny_thunder": "",
-      "sunny_snowy": ""
+      "foggy": "",
+      "rainy": "http://image.characterfarm.net/widget/characteritem/detail/25/6/1.png",
+      "thunder": "",
+      "snowy": ""
     }
   ]
 }
