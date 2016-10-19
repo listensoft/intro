@@ -2,6 +2,28 @@
   "code": 0,
   "message": "success",
   "last": false,
+  "slideList": [
+    {
+      "no": 55,
+      "title": "Orange",
+      "thumb": "http://leejangyoun.com/android/dummy/image/big/55.png"
+    },
+    {
+      "no": 72,
+      "title": "Pomelo",
+      "thumb": "http://leejangyoun.com/android/dummy/image/big/72.png"
+    },
+    {
+      "no": 49,
+      "title": "Watermelon",
+      "thumb": "http://leejangyoun.com/android/dummy/image/big/49.png"
+    },
+    {
+      "no": 54,
+      "title": "Olive",
+      "thumb": "http://leejangyoun.com/android/dummy/image/big/54.png"
+    }
+  ],
   "arrList": [
     {
       "type": "ITEM",
@@ -243,28 +265,6 @@
           }
         ]
       }
-    }
-  ],
-  "slideList": [
-    {
-      "no": 55,
-      "title": "Orange",
-      "thumb": "http://leejangyoun.com/android/dummy/image/big/55.png"
-    },
-    {
-      "no": 72,
-      "title": "Pomelo",
-      "thumb": "http://leejangyoun.com/android/dummy/image/big/72.png"
-    },
-    {
-      "no": 49,
-      "title": "Watermelon",
-      "thumb": "http://leejangyoun.com/android/dummy/image/big/49.png"
-    },
-    {
-      "no": 54,
-      "title": "Olive",
-      "thumb": "http://leejangyoun.com/android/dummy/image/big/54.png"
     }
   ]
 }
