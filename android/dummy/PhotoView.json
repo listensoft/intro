@@ -6,15 +6,15 @@
   "fileList": [
     {
       "id": 1,
-      "path": "http://leejangyoun.com/android/dummy/image/1.png",
+      "path": "http://leejangyoun.com/android/dummy/image/1.png"
     },
     {
       "id": 2,
-      "path": "http://leejangyoun.com/android/dummy/image/2.png",
+      "path": "http://leejangyoun.com/android/dummy/image/2.png"
     },
     {
       "id": 3,
-      "path": "http://leejangyoun.com/android/dummy/image/3.png",
+      "path": "http://leejangyoun.com/android/dummy/image/3.png"
     }
   ]
 }
